@@ -39,7 +39,7 @@
           </th>
           <th></th>
           <th></th>
-        <tr>
+        </tr>
       </thead>
 
        <tbody name="fade" is="transition-group">
@@ -84,7 +84,7 @@
             </td>
           </tr>
       
-     </transition-group>
+     </tbody>
         
   </table>
  
